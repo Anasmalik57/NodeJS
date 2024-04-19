@@ -1,0 +1,9 @@
+Node.js Architecture:
+Node.js is built on Chrome's V8 JavaScript engine.
+It uses an event-driven, non-blocking I/O model.
+Node.js has a single-threaded event loop, which enables handling concurrent requests efficiently.
+😄😄😄😄😄😄😄😄😄😄😄😄😄💻
+Advantages of Node.js:
+        - Non-blocking I/O operations make it efficient for handling concurrent requests.
+        - JavaScript-based, allowing developers to use the same language on both the client and server sides.
+        - Large ecosystem of libraries and modules available through npm.

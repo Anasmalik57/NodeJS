@@ -1,0 +1,30 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "This is the package.json file for index for NodeJS assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\ \"Error: No test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "Anasmalik57"
+  },
+  "keywords": [
+    "This",
+    "is",
+    "my",
+    "first",
+    "solution",
+    "of",
+    "the",
+    "assignment",
+    "provided",
+    "by",
+    "PWSkills",
+    "to",
+    "me"
+  ],
+  "author": "Anas",
+  "license": "MIT"
+}
